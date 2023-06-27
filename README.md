@@ -1,12 +1,12 @@
-# Custom-Floating-Islands
-Floating Island style world generation, but using different noise settings and or custom requests I have had over-time.
+# Custom-Floating-Islands  
+Floating Island style world generation, but using different noise settings.    
+Also where I put custom requests I have had over-time.  
 
+---
 
+### Some parts helped made with Jochen Jacobs' Snowcapped Tool!
 
+[Snowcapped Multi-Noise Biome Tool Editor](https://snowcapped.jacobsjo.eu)  
+[Jochen Jacobs' Github](https://github.com/jacobsjo)
 
-Some Datapack's in here made possible thanks to Jochen Jacobs' worldgen noise editor, Snowcapped! 
-
-Snowcapped: https://snowcapped.jacobsjo.eu
-Jochen Jacobs' Github: https://github.com/jacobsjo
-
-Strongly recommend trying it out if you want to mess around with worldgen, and show your support to him if you use this datapack!
+---
